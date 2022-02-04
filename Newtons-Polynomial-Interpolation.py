@@ -1,4 +1,4 @@
-" Title: Newton's Polynomial Interpolation
+" Title: Newtons Polynomial Interpolation
 " Author: Gustavo O Ramirez <ogustavoramirezo@gmail.com>
 " License: MIT
 " Source: https://github.com/GustavoOctavio/Numerical-Analysis-with-Phyton
